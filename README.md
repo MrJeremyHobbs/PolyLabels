@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/MrJeremyHobbs/PolyLabels/blob/master/images/logo_banner.png?raw=true "Title")
-# RoboReturns
-RoboReturns is for returning books in bulk for libraries using Ex Libris' Alma LMS. 
+# PolyLabels
+PolyLabels is for printing spine and pocket labels in Alma on dot matrix printers.
 
-It takes a file of barcodes and checks in each item one by one.
+The user scans a barcode and PolyLabels generate a label based on local configurations.
 
-It can also be used with a handheld barcode scanner to register in-house checkins.
+![Alt text](https://github.com/MrJeremyHobbs/PolyLabels/blob/master/images/screenshot.jpg?raw=true "Title")
